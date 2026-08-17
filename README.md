@@ -1,102 +1,80 @@
-### Hi there 👋
+# Hi, I'm Tenish 👋
 
-## I'm Tenish.
+**Full-Stack Engineer** based in Kuala Lumpur, Malaysia.
 
-### 💻 &nbsp;About Me
+I specialise in React, Next.js, micro-frontend architecture, GraphQL APIs, and cloud deployment workflows — with experience delivering production systems across fintech, government, and SaaS platforms.
 
-- 🤔 &nbsp; Exploring new technologies and developing programming insights.
-- 🎓 &nbsp; Working as a Software Engineer based in Kuala Lumpur, Malaysia
-
-<br>
-
-<p  align="center">
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> 
-                  
-  <br>
-
-<table border="0" align="center">
-<tr border="0">
-<td width="50%" align="center">
-  
-  <img  align="center"  src="https://github-readme-stats.vercel.app/api?username=Tenish14&theme=cobalt&show_icons=true&count_private=true" />
-  <br></br>
-  <img  title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="Mark streak" src="https://github-readme-streak-stats.herokuapp.com/?user=mark123jesper&theme=dark&hide_border=true" />
-
-</td>
-
-<td width="50%" align="center">
-
-  <img  align="center"  src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=Tenish14&theme=dark&hide_border=true&no-bg=true&no-frame=true&langs_count=10"/>
-  
-  </td>
-</tr>
-</table>
-
-<br>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-</p>  
-
-
-<br>
-<p align="center">
-<div align=center>
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-      <img align="center" width=100% src="https://github-profile-trophy.vercel.app/?username=Tenish14&theme=radical&margin-h=15&margin-w=5&no-bg=true" alt="TROPHY" />
-    </a>
-</div>
-</p>
-
-<br>
-
- <hr>
-
-<br>
-<p align="centre">
- 
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tenish14&bg_color=000000&color=4fff67&line=4fff67&point=ffffff&area=true&hide_border=true)  </p>
-
- <br> 
- 
- <hr>
- 
- <br>
-
-  <div align="center">
-  <h3><b>😄 Can Connect With Me On</b></h3>
-  </div>
-<p align="center">
-<a href="https://www.linkedin.com/in/tenish-r-67180711a/" target="_blank">
-  <img align="center" alt="Tenish | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
-</a> &nbsp;&nbsp;
-<p>
-  
-<br>
-  
-<!-- <div align=center>
-  <h3><b>📍 Profile Visitor Count</b></h3>
-</div>
-     -->
-<!-- retro visitor counter -->  
-<!-- <p align="center" >   
-  <img src="https://profile-counter.glitch.me/Tenish14/count.svg" />  
-</p>
-    -->
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  
-  <br>
-  <!-- <p align="center"> -->
-  <!-- <img src="https://github.com/Tenish14/Tenish14/raw/output/github-contribution-grid-snake.svg" alt="snake"></center> -->
-</p>
+[![Portfolio](https://img.shields.io/badge/Portfolio-tenish.vercel.app-000000?style=for-the-badge)](https://tenish.vercel.app/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Tenish%20R.-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tenish-r-67180711a/)
+[![Email](https://img.shields.io/badge/Email-tenish02%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tenish02@gmail.com)
 
 ---
+
+## 🛠️ Tech Stack
+
+**Languages**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Ruby on Rails](https://img.shields.io/badge/Ruby%20on%20Rails-CC0000?style=flat-square&logo=rubyonrails&logoColor=white)
+
+**Frontend**
+
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white)
+![Ant Design](https://img.shields.io/badge/Ant%20Design-0170FE?style=flat-square&logo=antdesign&logoColor=white)
+![Storybook](https://img.shields.io/badge/Storybook-FF4785?style=flat-square&logo=storybook&logoColor=white)
+
+**Backend**
+
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
+![REST APIs](https://img.shields.io/badge/REST%20APIs-02569B?style=flat-square&logo=fastapi&logoColor=white)
+
+**Databases**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+
+---
+
+## 🚀 Featured Projects
+
+### Selaras Web Portal
+Government project management system built for the Selangor State Secretary's Office (SUK Selangor) — tracking RMK project finances, timelines, risks, and contractors across departments.
+`Next.js` `TypeScript` `Ant Design` `Redux` `i18next` `dhx/gantt`
+
+### Plandora
+Full-stack vacation and trip-planning platform for collaborative itinerary planning, budget management, and friend/family sharing.
+`Next.js` `Express.js` `PostgreSQL` `AWS` `Elasticsearch` `Docker`
+
+### HBTU Maternity Portal
+Healthcare web platform for maternity ward users, providing accessible pregnancy-related information and patient resources through a modern serverless architecture.
+`Next.js` `Supabase` `Netlify` `Serverless`
+
+---
+
+## 💼 Experience
+ 
+Over the past few years I've grown from intern to full-stack engineer, working across fintech, government, and SaaS. My work has spanned architecting micro-frontend systems and shared UI libraries, designing GraphQL APIs for production microservices, building travel-planning platforms end-to-end as a solo developer, and streamlining CI/CD pipelines to cut deployment risk. I enjoy taking on complex engineering problems and building products that are meant to last, not just ship once.
+ 
+Full timeline on my [portfolio](https://tenish.vercel.app/).
+ 
+---
+## 📫 Let's build something that ships
+
+📍 Kuala Lumpur, Malaysia &nbsp;|&nbsp; 🎓 Nitrodegree in Applied Software Engineering, Forward College &nbsp;|&nbsp; 💻 Developing since 2020
+
+[![GitHub](https://img.shields.io/badge/GitHub-Tenish14-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tenish14)
